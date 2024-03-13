@@ -1,0 +1,3 @@
+CREATE TABLE "GCG_5157_PMOpen"(
+ "Project_ID" CHAR(7),
+ "GSSUser" CHAR(6));
